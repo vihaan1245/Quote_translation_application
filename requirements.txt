@@ -1,0 +1,6 @@
+translate==3.6.1
+requests==2.32.3
+schedule==1.2.2
+pillow==11.1.0
+pyttsx3==2.98
+
